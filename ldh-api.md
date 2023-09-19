@@ -25,4 +25,6 @@ related-components:
 - reuses:
   - ldh-datasets
   - ldh-keys
+- serves:
+  - ldh-portal
 ---

@@ -1,7 +1,7 @@
 ---
 component-id: rdf-uploader
 type: Software
-name: RDF UPloader
+name: RDF Uploader
 description: RDF Uploader component for RDF replication within the SPICE LDH
 image:
 logo:

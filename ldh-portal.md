@@ -23,6 +23,5 @@ contributors:
   - Enrico Daga <https://github.com/enridaga>
 related-components:
 - reuses:
-  - ldh-portal-datasets
-  - ldh-portal-keys
+  - ldh-api
 ---
