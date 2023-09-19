@@ -7,8 +7,8 @@ image:
 logo:
 demo:
 work-package: 
-  - WP5
-pilot: DDeep Viewpoints
+  - WP6
+pilot: Deep Viewpoints
 project: spice-h2020
 resource: https://spice.kmi.open.ac.uk/demos/imma-slow-looking
 release-date: 11/09/2023
