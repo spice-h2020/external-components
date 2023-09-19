@@ -1,6 +1,6 @@
 ---
 component-id: ldh-portal
-type: Software
+type: WebApplication
 name: LDH Portal
 description: The SPICE Linked Data Hub Portal
 image:
