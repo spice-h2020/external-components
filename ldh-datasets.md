@@ -10,7 +10,7 @@ work-package:
   - WP4
 project: spice-h2020
 resource: https://github.com/mkdf/mkdf-datasets
-release-date: 23/05/2023
+release-date: 14/03/2023
 release-number: v0.12.9
 release-link: https://github.com/mkdf/mkdf-datasets/releases/tag/v0.12.9
 doi: 
